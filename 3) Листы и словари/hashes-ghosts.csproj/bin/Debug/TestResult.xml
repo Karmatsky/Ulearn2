@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="ghost.exe" fullname="/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug/ghost.exe" testcasecount="5" result="Failed" start-time="2022-03-05 06:57:39Z" end-time="2022-03-05 06:57:39Z" duration="0.073753" total="5" passed="0" failed="5" inconclusive="0" skipped="0" asserts="5" random-seed="148274997">
+  <command-line><![CDATA["/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug/ghost.exe"]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="ghost.exe" fullname="/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug/ghost.exe" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2022-03-05 06:57:39Z" end-time="2022-03-05 06:57:39Z" duration="0.073753" total="5" passed="0" failed="5" warnings="0" inconclusive="0" skipped="0" asserts="5">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Unix 20.6.0.0" platform="Unix" cwd="/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug" machine-name="iMac-Savely" user="skarmatsky" user-domain="iMac-Savely" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="3502" />
+      <property name="_APPDOMAIN" value="ghost.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1007" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2022-03-05 06:57:39Z" end-time="2022-03-05 06:57:39Z" duration="0.046262" total="5" passed="0" failed="5" warnings="0" inconclusive="0" skipped="0" asserts="5">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1000" name="GhostsTest" fullname="hashes.GhostsTest" classname="hashes.GhostsTest" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2022-03-05 06:57:39Z" end-time="2022-03-05 06:57:39Z" duration="0.042098" total="5" passed="0" failed="5" warnings="0" inconclusive="0" skipped="0" asserts="5">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1003" name="GhostCatBreaksHashSet" fullname="hashes.GhostsTest.GhostCatBreaksHashSet" methodname="GhostCatBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="508851772" result="Failed" label="Error" start-time="2022-03-05 06:57:39Z" end-time="2022-03-05 06:57:39Z" duration="0.017831" asserts="1">
+          <failure>
+            <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object]]></message>
+            <stack-trace><![CDATA[  at hashes.GhostsTask.DoMagic () [0x00024] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTask.cs:23 
+  at hashes.GhostsTest.AssertThatDoMagicBreaksHashSet[TItem,TGhostsTask] () [0x0003c] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:48 
+  at hashes.GhostsTest.GhostCatBreaksHashSet () [0x00001] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:25 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in /Users/builder/jenkins/workspace/build-package-osx-mono/2020-02/external/bockbuild/builds/mono-x64/mcs/class/corlib/System.Reflection/RuntimeMethodInfo.cs:395 ]]></stack-trace>
+          </failure>
+        </test-case>
+        <test-case id="1004" name="GhostDocumentBreaksHashSet" fullname="hashes.GhostsTest.GhostDocumentBreaksHashSet" methodname="GhostDocumentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1732231239" result="Failed" label="Error" start-time="2022-03-05 06:57:39Z" end-time="2022-03-05 06:57:39Z" duration="0.001097" asserts="1">
+          <failure>
+            <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object]]></message>
+            <stack-trace><![CDATA[  at hashes.GhostsTask.DoMagic () [0x00024] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTask.cs:23 
+  at hashes.GhostsTest.AssertThatDoMagicBreaksHashSet[TItem,TGhostsTask] () [0x0003c] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:48 
+  at hashes.GhostsTest.GhostDocumentBreaksHashSet () [0x00001] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:31 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in /Users/builder/jenkins/workspace/build-package-osx-mono/2020-02/external/bockbuild/builds/mono-x64/mcs/class/corlib/System.Reflection/RuntimeMethodInfo.cs:395 ]]></stack-trace>
+          </failure>
+        </test-case>
+        <test-case id="1005" name="GhostRobotBreaksHashSet" fullname="hashes.GhostsTest.GhostRobotBreaksHashSet" methodname="GhostRobotBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="439991273" result="Failed" label="Error" start-time="2022-03-05 06:57:39Z" end-time="2022-03-05 06:57:39Z" duration="0.000551" asserts="1">
+          <failure>
+            <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object]]></message>
+            <stack-trace><![CDATA[  at hashes.GhostsTask.DoMagic () [0x00024] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTask.cs:23 
+  at hashes.GhostsTest.AssertThatDoMagicBreaksHashSet[TItem,TGhostsTask] () [0x0003c] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:48 
+  at hashes.GhostsTest.GhostRobotBreaksHashSet () [0x00001] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:37 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in /Users/builder/jenkins/workspace/build-package-osx-mono/2020-02/external/bockbuild/builds/mono-x64/mcs/class/corlib/System.Reflection/RuntimeMethodInfo.cs:395 ]]></stack-trace>
+          </failure>
+        </test-case>
+        <test-case id="1002" name="GhostSegmentBreaksHashSet" fullname="hashes.GhostsTest.GhostSegmentBreaksHashSet" methodname="GhostSegmentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="81927261" result="Failed" label="Error" start-time="2022-03-05 06:57:39Z" end-time="2022-03-05 06:57:39Z" duration="0.000556" asserts="1">
+          <failure>
+            <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object]]></message>
+            <stack-trace><![CDATA[  at hashes.GhostsTask.DoMagic () [0x00024] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTask.cs:23 
+  at hashes.GhostsTest.AssertThatDoMagicBreaksHashSet[TItem,TGhostsTask] () [0x0003c] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:48 
+  at hashes.GhostsTest.GhostSegmentBreaksHashSet () [0x00001] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:19 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in /Users/builder/jenkins/workspace/build-package-osx-mono/2020-02/external/bockbuild/builds/mono-x64/mcs/class/corlib/System.Reflection/RuntimeMethodInfo.cs:395 ]]></stack-trace>
+          </failure>
+        </test-case>
+        <test-case id="1001" name="GhostVectorBreaksHashSet" fullname="hashes.GhostsTest.GhostVectorBreaksHashSet" methodname="GhostVectorBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="2052406660" result="Failed" label="Error" start-time="2022-03-05 06:57:39Z" end-time="2022-03-05 06:57:39Z" duration="0.000848" asserts="1">
+          <failure>
+            <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object]]></message>
+            <stack-trace><![CDATA[  at hashes.GhostsTask.DoMagic () [0x00024] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTask.cs:23 
+  at hashes.GhostsTest.AssertThatDoMagicBreaksHashSet[TItem,TGhostsTask] () [0x0003c] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:48 
+  at hashes.GhostsTest.GhostVectorBreaksHashSet () [0x00001] in /Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/GhostsTest.cs:13 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in /Users/builder/jenkins/workspace/build-package-osx-mono/2020-02/external/bockbuild/builds/mono-x64/mcs/class/corlib/System.Reflection/RuntimeMethodInfo.cs:395 ]]></stack-trace>
+          </failure>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

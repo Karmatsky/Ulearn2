@@ -1,0 +1,3 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/2)yield return/Практики/yield-return-smooth.csproj/obj/Debug/yield-return-smooth.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/2)yield return/Практики/yield-return-smooth.csproj/obj/Debug/yield.exe.config
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/2)yield return/Практики/yield-return-smooth.csproj/obj/Debug/yield-return-smooth.csproj.CoreCompileInputs.cache

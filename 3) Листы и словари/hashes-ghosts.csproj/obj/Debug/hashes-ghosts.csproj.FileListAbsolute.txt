@@ -1,0 +1,10 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug/ghost.exe.config
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug/ghost.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug/ghost.pdb
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug/nunit.framework.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/bin/Debug/nunitlite.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/obj/Debug/hashes-ghosts.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/obj/Debug/hashes-ghosts.csproj.CoreCompileInputs.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/obj/Debug/hashes-ghosts.csproj.CopyComplete
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/obj/Debug/ghost.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-ghosts.csproj/obj/Debug/ghost.pdb

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/Семинарские задачки/LD7/LD7/LD7.csproj": {}
+  },
+  "projects": {
+    "/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/Семинарские задачки/LD7/LD7/LD7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/Семинарские задачки/LD7/LD7/LD7.csproj",
+        "projectName": "LD7",
+        "projectPath": "/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/Семинарские задачки/LD7/LD7/LD7.csproj",
+        "packagesPath": "/Users/skarmatsky/.nuget/packages/",
+        "outputPath": "/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/Семинарские задачки/LD7/LD7/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skarmatsky/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/obj/Debug/hashes-readonly-bytes.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/obj/Debug/hashes-readonly-bytes.csproj.CoreCompileInputs.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/bin/Debug/readonly-bytes.exe.config
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/bin/Debug/readonly-bytes.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/bin/Debug/readonly-bytes.pdb
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/bin/Debug/nunit.framework.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/bin/Debug/nunitlite.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/obj/Debug/hashes-readonly-bytes.csproj.CopyComplete
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/obj/Debug/readonly-bytes.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/3) Листы и словари/hashes-readonly-bytes.csproj/obj/Debug/readonly-bytes.pdb

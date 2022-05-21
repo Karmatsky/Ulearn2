@@ -1,0 +1,10 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/bin/Debug/brainfuck.exe.config
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/bin/Debug/brainfuck.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/bin/Debug/brainfuck.pdb
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/bin/Debug/nunit.framework.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/bin/Debug/nunitlite.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/obj/Debug/func-brainfuck.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/obj/Debug/func-brainfuck.csproj.CoreCompileInputs.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/obj/Debug/func-brainfuck.csproj.CopyComplete
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/obj/Debug/brainfuck.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/4) Делегаты/func-brainfuck.csproj/obj/Debug/brainfuck.pdb
