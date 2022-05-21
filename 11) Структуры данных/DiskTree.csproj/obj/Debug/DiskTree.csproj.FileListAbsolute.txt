@@ -1,0 +1,2 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/11) Структуры данных/DiskTree.csproj/obj/Debug/DiskTree.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/11) Структуры данных/DiskTree.csproj/obj/Debug/DiskTree.csproj.CoreCompileInputs.cache

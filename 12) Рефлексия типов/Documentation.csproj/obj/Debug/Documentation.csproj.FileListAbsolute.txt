@@ -1,0 +1,2 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/12) Рефлексия типов/Documentation.csproj/obj/Debug/Documentation.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/12) Рефлексия типов/Documentation.csproj/obj/Debug/Documentation.csproj.CoreCompileInputs.cache
