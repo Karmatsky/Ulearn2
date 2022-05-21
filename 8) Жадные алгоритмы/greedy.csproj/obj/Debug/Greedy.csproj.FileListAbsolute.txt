@@ -1,0 +1,12 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/obj/Debug/Greedy.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/obj/Debug/Greedy.Architecture.Drawing.GreedyWindow.resources
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/obj/Debug/Greedy.Properties.Resources.resources
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/obj/Debug/Greedy.csproj.GenerateResource.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/obj/Debug/Greedy.csproj.CoreCompileInputs.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/bin/Debug/Greedy.exe.config
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/bin/Debug/Greedy.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/bin/Debug/Greedy.pdb
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/bin/Debug/nunit.framework.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/obj/Debug/Greedy.csproj.CopyComplete
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/obj/Debug/Greedy.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/8) Жадные алгоритмы/greedy.csproj/obj/Debug/Greedy.pdb
