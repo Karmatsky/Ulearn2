@@ -1,0 +1,13 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/obj/Debug/rocket-bot.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/obj/Debug/rocket_bot.Properties.Resources.resources
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/obj/Debug/rocket-bot.csproj.GenerateResource.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/obj/Debug/rocket-bot.csproj.CoreCompileInputs.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/bin/Debug/images/flag.png
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/bin/Debug/images/rocket.png
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/bin/Debug/rocket-bot.exe.config
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/bin/Debug/rocket-bot.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/bin/Debug/rocket-bot.pdb
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/bin/Debug/nunit.framework.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/obj/Debug/rocket-bot.csproj.CopyComplete
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/obj/Debug/rocket-bot.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/9) Многопоточное программирование/rocket-bot.csproj/obj/Debug/rocket-bot.pdb
