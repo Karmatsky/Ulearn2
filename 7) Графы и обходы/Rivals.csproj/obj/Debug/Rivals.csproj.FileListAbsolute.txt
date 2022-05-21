@@ -1,0 +1,4 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/7) Графы и обходы/Rivals.csproj/obj/Debug/Rivals.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/7) Графы и обходы/Rivals.csproj/obj/Debug/Rivals.Properties.Resources.resources
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/7) Графы и обходы/Rivals.csproj/obj/Debug/Rivals.csproj.GenerateResource.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/7) Графы и обходы/Rivals.csproj/obj/Debug/Rivals.csproj.CoreCompileInputs.cache

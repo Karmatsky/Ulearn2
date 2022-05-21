@@ -1,0 +1,4 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/7) Графы и обходы/Dungeon.csproj/obj/Debug/Dungeon.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/7) Графы и обходы/Dungeon.csproj/obj/Debug/Dungeon.Properties.Resources.resources
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/7) Графы и обходы/Dungeon.csproj/obj/Debug/Dungeon.csproj.GenerateResource.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/7) Графы и обходы/Dungeon.csproj/obj/Debug/Dungeon.csproj.CoreCompileInputs.cache
