@@ -1,0 +1,11 @@
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/bin/Debug/TodoApplication.exe.config
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/bin/Debug/TodoApplication.exe
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/bin/Debug/TodoApplication.pdb
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/bin/Debug/nunit.framework.dll
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/obj/Debug/LimitedSizeStack.csproj.AssemblyReference.cache
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/obj/Debug/TodoApplication.Properties.Resources.resources
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/obj/Debug/LimitedSizeStack.csproj.GenerateResource.cache
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/obj/Debug/LimitedSizeStack.csproj.CoreCompileInputs.cache
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/obj/Debug/LimitedSizeStack.csproj.CopyComplete
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/obj/Debug/TodoApplication.exe
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Практики/LimitedSizeStack.csproj/obj/Debug/TodoApplication.pdb

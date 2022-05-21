@@ -1,0 +1,13 @@
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/obj/Debug/netcoreapp3.1/SQ2.csproj.AssemblyReference.cache
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/obj/Debug/netcoreapp3.1/SQ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/obj/Debug/netcoreapp3.1/SQ2.AssemblyInfoInputs.cache
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/obj/Debug/netcoreapp3.1/SQ2.AssemblyInfo.cs
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/obj/Debug/netcoreapp3.1/SQ2.csproj.CoreCompileInputs.cache
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/bin/Debug/netcoreapp3.1/SQ2.deps.json
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/bin/Debug/netcoreapp3.1/SQ2.runtimeconfig.json
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/bin/Debug/netcoreapp3.1/SQ2.runtimeconfig.dev.json
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/bin/Debug/netcoreapp3.1/SQ2.dll
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/bin/Debug/netcoreapp3.1/SQ2.pdb
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/obj/Debug/netcoreapp3.1/SQ2.dll
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/obj/Debug/netcoreapp3.1/SQ2.pdb
+/Users/skarmatsky/Desktop/Курс по C#/2 семестр/1) Стеки, очереди, дженерики/Семинарские задачи/SQ2/SQ2/obj/Debug/netcoreapp3.1/SQ2.genruntimeconfig.cache
