@@ -1,0 +1,4 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/5) Элементы функционального программирования/func-rocket.csproj/obj/Debug/func-rocket.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/5) Элементы функционального программирования/func-rocket.csproj/obj/Debug/func_rocket.Properties.Resources.resources
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/5) Элементы функционального программирования/func-rocket.csproj/obj/Debug/func-rocket.csproj.GenerateResource.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/5) Элементы функционального программирования/func-rocket.csproj/obj/Debug/func-rocket.csproj.CoreCompileInputs.cache

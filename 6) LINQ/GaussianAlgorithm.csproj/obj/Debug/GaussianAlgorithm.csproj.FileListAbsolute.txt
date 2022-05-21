@@ -1,0 +1,10 @@
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/bin/Debug/GaussAlgorithm.exe.config
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/bin/Debug/GaussAlgorithm.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/bin/Debug/GaussAlgorithm.pdb
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/bin/Debug/nunit.framework.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/bin/Debug/nunitlite.dll
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/obj/Debug/GaussianAlgorithm.csproj.AssemblyReference.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/obj/Debug/GaussianAlgorithm.csproj.CoreCompileInputs.cache
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/obj/Debug/GaussianAlgorithm.csproj.CopyComplete
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/obj/Debug/GaussAlgorithm.exe
+/Users/skarmatsky/OneDrive - УрФУ/1 курс/2 семестр/Программирование/Ulearn #2/6) LINQ/GaussianAlgorithm.csproj/obj/Debug/GaussAlgorithm.pdb
